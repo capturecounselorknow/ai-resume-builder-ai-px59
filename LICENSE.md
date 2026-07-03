@@ -1,4 +1,4 @@
-# 
+# Atualizado AI Resume Builder predefinições. Com aprendizado por reforço e tomada de decisão automatizada — otimizado para máximo desempenho.
 
 
 
